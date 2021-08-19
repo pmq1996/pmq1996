@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Quyền/Victor
 - 👀 I’m a Recruiter
 - 🌱 I’m currently recruiting for star.global so ping me if you want to know more about what it's like to work at Star
-- 💞️ I’m looking to hire the best talents for many positions including: Android - iOS - NodeJS - React Native
+- 💞️ I’m looking to hire the best talents for many positions including: Android - NodeJS - Solution Architect (Java)
 - 📫 How to reach me: quyenphan@star.global or Skype - pmq0406
 
 <!---
