@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Quyền/Victor
 - 👀 I’m a Recruiter
 - 🌱 I’m currently recruiting for star.global so ping me if you want to know more about what it's like to work at Star
-- 💞️ I’m looking to hire the best talents for many positions including: Android - NodeJS - Solution Architect (Java)
-- 📫 How to reach me: quyenphan@star.global or Skype - pmq0406
+- 💞️ I’m looking to hire the best talents for many positions including: Cyber Security Engineer, QA Engineer
+- 📫 How to reach me: pvictor@fossil.com or Skype - pmq0406
 
 <!---
 pmq1996/pmq1996 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
