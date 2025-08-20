@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Quyền/Victor
 - 👀 I’m a Recruiter
-- 🌱 I’m currently recruiting for WorldQuant so ping me if you want to know more about what it's like to work at Star
+- 🌱 I’m currently recruiting for WorldQuant so ping me if you want to know more about what it's like to work here
 - 💞️ I’m looking to hire the best talents for many positions including: Fullstack Engineer (Python & React)
 - 📫 How to reach me: quyenminh.phan@worldquant.com 
 
